@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Vadim Zendejas]]></title>
         <description><![CDATA[Vadim Zendejas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vadim-zendejas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 12:19:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 18:46:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vadim-zendejas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Aviation Startup Is the Answer to Your Travel Prayers]]></title>
+            <description><![CDATA[<article><h1>This Aviation Startup Is the Answer to Your Travel Prayers</h1><p>As someone who has lived for years on one continent while the vast majority of my friends and family live on another, I have long dreamed that some brilliant company would finally make a real-life, Star Trek-style transporter beam. One minute I'd be standing in the chaos of Heathrow, next I'd be hurrying towards the luggage carousel at JFK.</p><img src="http://images.inc.com/uploaded_files/image/970x450/Boom-Flying-web_86524.jpg"></article>]]></description>
+            <link>http://www.inc.com/jessica-stillman/this-aviation-start-up-is-the-answer-to-your-travel-prayers.html</link>
+            <guid isPermaLink="false">f56f1168-f50f-42b4-82a3-7118753230f6</guid>
+            <pubDate>Mon, 16 May 2016 18:45:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Press Amazon's IRL Button to Call a Cab, Brew Coffee, or Whatever]]></title>
-            <description><![CDATA[<article><h1>Press Amazon's IRL Button to Call a Cab, Brew Coffee, or Whatever</h1><p>The real world just got a little more push-button. This week Amazon quietly listed customizable AWS IoT Buttons for sale on its site, customizable versions of its Amazon Dash buttons. The Dash buttons take the company's "one-click" ordering quasi-offline by letting you let you order products such as pet food, toilet paper, or caffeinated beverages by pressing an internet-connected physical button.</p><img src="http://www.wired.com/wp-content/uploads/2016/05/AWS_IoT_button_short-f-1200x630.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Press Amazon's IRL Button to Call a Cab, Brew Coffee, or Whatever</h1><p>The real world just got a little more push-button. This week Amazon quietly listed customizable AWS IoT Buttons for sale on its site, customizable versions of its Amazon Dash buttons. The Dash buttons take the company's "one-click" ordering quasi-offline by letting you let you order products such as pet food, toilet paper, or caffeinated beverages by pressing an internet-connected physical button.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84896501e9b49a183aacfb4ad0ecc0d2604cc796.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/05/aws-iot-dash/</link>
             <guid isPermaLink="false">d0f2f3ae-d451-4434-bcd9-3b17172196c9</guid>
             <pubDate>Sun, 15 May 2016 12:18:20 GMT</pubDate>
