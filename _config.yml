@@ -1,8 +1,23 @@
-layout_spectrum: 0.0811925
-color:
-  saturation: 0.1564174
-  lightness: 0.1179787
-  brandStrength: 0.6201724
-  rhythmicContrast: 0.5660005
-typography_spectrum: 0.6756272
 name: Vadim Zendejas
+favicon: null
+layout_spectrum: 0.0811925
+typography_spectrum: 0.74008
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6201724
+  lightness: 0.1179787
+  saturation: 0.1564174
+  rhythmicContrast: 0.5660005
+purpose: []
