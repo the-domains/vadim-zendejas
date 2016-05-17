@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Hello world!'
-datePublished: '2016-05-17T12:57:43.508Z'
-dateModified: '2016-05-17T12:57:18.897Z'
+datePublished: '2016-05-17T13:00:14.303Z'
+dateModified: '2016-05-17T12:57:51.526Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-17-about-vadim-zendejas.md
