@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Hello world!'
-datePublished: '2016-05-17T12:56:13.913Z'
-dateModified: '2016-05-17T12:56:04.756Z'
+datePublished: '2016-05-17T12:57:43.508Z'
+dateModified: '2016-05-17T12:57:18.897Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-about-vadim-zendejas.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-about-vadim-zendejas.md
 url: about-vadim-zendejas/index.html
-_type: Article
+_type: WebPage
 
 ---
 Hello world!
